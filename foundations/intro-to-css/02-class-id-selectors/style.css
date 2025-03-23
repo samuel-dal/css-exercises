@@ -1,0 +1,18 @@
+.pink{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.pink:nth-of-type(2){
+    font-size: 24px;
+}
+
+#number2{
+    color: blue;
+    font-size: 32px;
+}
+
+#number4{
+    background-color: lightgreen;
+    font-size: 24px;
+}
