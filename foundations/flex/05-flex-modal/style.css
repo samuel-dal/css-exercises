@@ -20,6 +20,27 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display: flex;
+  padding: 17px;
+
+}
+
+.left{
+  padding-right: 17px;
+}
+
+.right .top-right{
+  display: flex;
+  justify-content: space-between;
+
+  .header{
+    font-weight: 800;
+    font-size: 20px;
+  }
+}
+
+.mid-right{
+  padding: 11px 0;
 }
 
 .icon {
